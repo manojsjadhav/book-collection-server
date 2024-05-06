@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "dg947994624",
+      "bookname": "Forgotten Science ",
+      "author": "S.D. Tucker",
+      "quantity": 5
+    },
+    {
+      "id": "35khdhdfv1",
+      "bookname": "Weird Maths",
+      "author": "D Darling & Agnijo Banerjee",
+      "quantity": 8
+    },
+    {
+      "id": "sdfdsf8785324a",
+      "bookname": "Mapping the Heavens",
+      "author": "Priyamvada Natarajan",
+      "quantity": 4
+    },
+    {
+      "id": "35kndsf54t5et",
+      "bookname": "The Weavers",
+      "author": "Geetha Iyer",
+      "quantity": 44
+    },
+    {
+      "id": "dsdf35kndsf54t5et",
+      "bookname": "Abstract Algebra",
+      "author": "David S. Dummit and Richard M. Foote",
+      "quantity": 2
+    },
+    {
+      "id": "89744444dsdf35kndsf54t5et",
+      "bookname": "Mathematical Logic",
+      "author": "Mordechai Ben-Ari",
+      "quantity": 52
+    },
+    {
+      "id": "rtrwkndsf54t5et",
+      "bookname": "Midnight's Children",
+      "author": "Salman Rushdie",
+      "quantity": 18
+    },
+    {
+      "id": "965dfrtrwkndsf54t5et",
+      "bookname": "A Suitable Boy",
+      "author": "Vikram Seth",
+      "quantity": 16
+    },
+    {
+      "id": "324frtrwkndsf54t5et",
+      "bookname": "Train to Pakistan",
+      "author": "Khushwant Singh",
+      "quantity": 5
+    },
+    {
+      "id": "rtrwkqwendsf54t5et",
+      "bookname": "The White Tiger",
+      "author": "Aravind Adiga",
+      "quantity": 28
+    }
+  ]
+}
